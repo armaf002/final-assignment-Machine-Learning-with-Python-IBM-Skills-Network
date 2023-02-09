@@ -1,4 +1,4 @@
-# Final Assihnment
+# Final Assignment
 ## Machine Learning with Python, IBM Skills Network Final Assignment
 
 This is an Honors Project. Its completion is optional but highly recommended.
